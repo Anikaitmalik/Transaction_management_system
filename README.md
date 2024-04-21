@@ -18,5 +18,3 @@ Saves the updated inventory, staff, admin, and purchase history tables back to t
 Overall, this script serves as a functional system for managing inventory, processing sales, handling returns, and generating reports for a small-scale retail operation. It demonstrates the use of Python along with libraries like Pandas and Matplotlib for data manipulation and visualization, as well as interaction with a SQLite database.
 
 
-
-Overall, this script serves as a functional system for managing inventory, processing sales, handling returns, and generating reports for a small-scale retail operation. It demonstrates the use of Python along with libraries like Pandas and Matplotlib for data manipulation and visualization, as well as interaction with a SQLite database.
